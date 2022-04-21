@@ -14,12 +14,12 @@ const p_presale_mint_not_whitelisted = "";
 const p_presale_mint_whitelisted = "";
 const p_presale_mint_already_minted = "You've already claimed your whitelist mint. Thank you! 🎉";
 const p_public_mint = "No whitelist needed. Public minting is now open! 🎉";
-const button_presale_coming_soon = "";
+const button_presale_coming_soon = "Presale is coming soon";
 const button_presale_mint_whitelisted = "Mint Your Special NFT";
 const button_presale_mint_not_whitelisted = "";
-const button_presale_already_minted = "";
+const button_presale_already_minted = "Presale already minted";
 const button_public_mint = "Mint Your NFT";
-const mint_failed = "";
+const mint_failed = "Sorry minting failed";
 
 const abi = [
   {
